@@ -25,3 +25,7 @@ pip-log.txt
 
 #Virtualenv
 venv/
+
+# editors
+.vscode/*
+.idea/*
